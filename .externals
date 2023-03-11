@@ -1,0 +1,7 @@
+repositories:
+
+  _externals/1_2_0_20160403:
+    type:             git
+    url:              https://github.com/andry81-3dparty/qwtpolar
+    version:          '1_2_0_20160403'
+    fetch-to-branch:  '1_2_0_20160403'
